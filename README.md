@@ -49,20 +49,22 @@ Procedure for Load test:
 
 
 
-## Tabulation for Open Circuit Test:
-<img width="800" height="400" alt="WhatsApp Image 2026-10-24 at 10 04 13" src="https://github.com/user-attachments/assets/8110f9cb-7b3a-4d64-a765-18a2a2113635" />
+### Tabulation for Open Circuit Test:
+<img width="600" height="600" alt="WhatsApp Image 2026-10-25 at 12 07 57" src="https://github.com/user-attachments/assets/7bfda941-4b1b-4028-bd50-cd48c6ad72b9" />
 
-## Tabulation for Load Test:
-<img width="800" height="600" alt="WhatsApp Image 2026-10-24 at 10 04 19" src="https://github.com/user-attachments/assets/e15ce847-ac39-41c7-a10b-02d902742df7" />
+### Tabulation for Load Test:
+<img width="600" height="600" alt="WhatsApp Image 2026-10-24 at 10 04 19" src="https://github.com/user-attachments/assets/69f4a0f2-1b0a-410f-8a05-ac33dadfe542" />
 
-## Model Graph:
-<img width="1200" height="600" alt="WhatsApp Image 2026-10-24 at 10 17 38" src="https://github.com/user-attachments/assets/ac7d7e9a-2daa-4512-9482-ace4ea102ae9" />
+### Model Graph
+<img width="600" height="600" alt="WhatsApp Image 2026-10-25 at 12 07 58" src="https://github.com/user-attachments/assets/294fba87-b9d1-49f7-8aa8-4d42ed3a2012" />
+<img width="600" height="600" alt="WhatsApp Image 2026-10-25 at 12 07 58 (1)" src="https://github.com/user-attachments/assets/3c2524bc-9fc8-4261-bbd3-8a91d6d27fd0" />
 
- ### Calculatiion
  ## Open Circuit Characteristics:
 
 
  ## Load Characteristics:
+ [steffi_load.pdf](https://github.com/user-attachments/files/33920304/steffi_load.pdf)
+
 
 ## Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
