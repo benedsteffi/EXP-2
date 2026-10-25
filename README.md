@@ -56,14 +56,16 @@ Procedure for Load test:
 <img width="600" height="600" alt="WhatsApp Image 2026-10-24 at 10 04 19" src="https://github.com/user-attachments/assets/69f4a0f2-1b0a-410f-8a05-ac33dadfe542" />
 
 ### Model Graph
-<img width="600" height="600" alt="WhatsApp Image 2026-10-25 at 12 07 58" src="https://github.com/user-attachments/assets/294fba87-b9d1-49f7-8aa8-4d42ed3a2012" />
+<img width="600" height="400" alt="WhatsApp Image 2026-10-25 at 12 07 58" src="https://github.com/user-attachments/assets/294fba87-b9d1-49f7-8aa8-4d42ed3a2012" />
 <img width="600" height="600" alt="WhatsApp Image 2026-10-25 at 12 07 58 (1)" src="https://github.com/user-attachments/assets/3c2524bc-9fc8-4261-bbd3-8a91d6d27fd0" />
 
- ## Open Circuit Characteristics:
+ ### Open Circuit Characteristics:
+<img width="1045" height="892" alt="WhatsApp Image 2026-10-25 at 12 21 30" src="https://github.com/user-attachments/assets/3b1ad63f-0990-4467-85a0-cbfb7188f24b" />
 
 
- ## Load Characteristics:
- [steffi_load.pdf](https://github.com/user-attachments/files/33920304/steffi_load.pdf)
+ ### Load Characteristics:
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/4aa7d74a-a103-4780-a893-1d37d57b9421" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/32082688-ba5b-4212-8341-665b8ddc8a14" />
 
 
 ## Result:
